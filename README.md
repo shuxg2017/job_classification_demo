@@ -1,7 +1,7 @@
 # Job Classification Demo
 <br>
 
-## This is a show case. I use Job Dataset to build topic extraction model and job prediction model.
+## This is a show case, so the code is not available. Based on the job dataset, I build a topic extraction model and a job prediction model.
 <br>
 
 ### Significant Words for Each Job
